@@ -10,7 +10,7 @@ A list of recent papers about GNN methods applied in NLP areas.
 
 1. **Incorporating Syntactic and Semantic Information in Word Embeddings using Graph Convolutional Networks**. *Shikhar Vashishth, Manik Bhandari, Prateek Yadav, Piyush Rai, Chiranjib Bhattacharyya and Partha Talukdar*. ***ACL 2019*** [[pdf](https://arxiv.org/abs/1809.04283)] [[code](http://github.com/malllabiisc/WordGCN)]
 
-2. **A Lexicon-Based Graph Neural Network for Chinese NER**. *Tao Gui, Yicheng Zou and Qi Zhang.* ***EMNLP 2019*** [[pdf](http://qizhang.info/paper/emnlp-2019.ner.pdf)]
+2. **A Lexicon-Based Graph Neural Network for Chinese NER**. *Tao Gui, Yicheng Zou and Qi Zhang.* ***EMNLP 2019*** [[pdf](http://qizhang.info/paper/emnlp-2019.ner)]
 
    
 
@@ -22,7 +22,7 @@ A list of recent papers about GNN methods applied in NLP areas.
 
 3. **Syntax-Aware Aspect Level Sentiment Classification with Graph Attention Networks**. *Binxuan Huang and Kathleen M. Carley.* ***EMNLP 2019*** [[pdf](https://arxiv.org/abs/1909.02606)]
 
-4. **Relational Graph Attention Network for Aspect-based Sentiment Analysis**. *Kai Wang, Weizhou Shen, Yunyi Yang, Xiaojun Quan, Rui Wang*. ***ACL 2020*** [[pdf](https://arxiv.org/pdf/2004.12362.pdf)] 
+4. **Relational Graph Attention Network for Aspect-based Sentiment Analysis**. *Kai Wang, Weizhou Shen, Yunyi Yang, Xiaojun Quan, Rui Wang*. ***ACL 2020*** [[pdf](https://arxiv.org/abs/2004.12362)] 
 
    
 
@@ -34,7 +34,7 @@ A list of recent papers about GNN methods applied in NLP areas.
 
 3. **Cognitive Graph for Multi-Hop Reading Comprehension at Scale**. *Ming Ding, Chang Zhou, Qibin Chen, Hongxia Yang and Jie Tang.* ***ACL 2019*** [[pdf](https://arxiv.org/abs/1905.05460)] [[code](https://github.com/THUDM/CogQA)]
 
-4. **Dynamically Fused Graph Network for Multi-hop Reasoning**. *Yunxuan Xiao, Yanru Qu, Lin Qiu, Hao Zhou, Lei Li, Weinan Zhang and Yong Yu.* ***ACL 2019*** [[pdf](https://arxiv.org/abs/1905.06933)]
+4. **Dynamically Fused Graph Network for Multi-hop Reasoning**. *Yunxuan Xiao, Yanru Qu, Lin Qiu, Hao Zhou, Lei Li, Weinan Zhang and Yong Yu.* ***ACL 2019*** [[pdf](https://arxiv.org/abs/1905.06933)] [[code](https://github.com/woshiyyya/DFGN-pytorch)]
 
 5. **Multi-hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs**. *Ming Tu, Guangtao Wang, Jing Huang, Yun Tang, Xiaodong He and Bowen Zhou.* ***ACL 2019*** [[pdf](https://arxiv.org/abs/1905.07374)]
 
@@ -48,7 +48,7 @@ A list of recent papers about GNN methods applied in NLP areas.
 
 10. **Knowledge-aware Textual Entailment with Graph Atention Network**. *Daoyuan Chen , Yaliang Li , Min Yang , Hai-Tao Zheng , Ying Shen.*  ***CIKM 2019*** [[pdf]()]
 
-11. **Fine-grained Fact Verification with Kernel Graph Attention Network**. *Zhenghao Liu, Chenyan Xiong, Maosong Sun, Zhiyuan Liu*. ***ACL 2020*** [[pdf](https://arxiv.org/pdf/1910.09796.pdf)] [[code](https://github.com/thunlp/KernelGAT)]
+11. **Fine-grained Fact Verification with Kernel Graph Attention Network**. *Zhenghao Liu, Chenyan Xiong, Maosong Sun, Zhiyuan Liu*. ***ACL 2020*** [[pdf](https://arxiv.org/abs/1910.09796)] [[code](https://github.com/thunlp/KernelGAT)]
 
    
 
@@ -72,7 +72,7 @@ A list of recent papers about GNN methods applied in NLP areas.
 
 3. **Enhancing AMR-to-Text Generation with Dual Graph Representations**. *Leonardo F. R. Ribeiro, Claire Gardent and Iryna Gurevych.* ***EMNLP 2019*** [[pdf](https://arxiv.org/abs/1909.00352)]
 
-4. **Heterogeneous Graph Neural Networks for Extractive Document Summarization**. *Danqing Wang, Pengfei Liu, Yining Zheng, Xipeng Qiu, Xuanjing Huang*. ***ACL 2020*** [[pdf](https://arxiv.org/pdf/2004.12393.pdf)] [[code](https://github.com/brxx122/HeterSUMGraph)]
+4. **Heterogeneous Graph Neural Networks for Extractive Document Summarization**. *Danqing Wang, Pengfei Liu, Yining Zheng, Xipeng Qiu, Xuanjing Huang*. ***ACL 2020*** [[pdf](https://arxiv.org/abs/2004.12393)] [[code](https://github.com/brxx122/HeterSUMGraph)]
 
    
 
@@ -94,7 +94,7 @@ A list of recent papers about GNN methods applied in NLP areas.
 
 4. **Look before you Hop: Conversational Question Answering over Knowledge Graphs Using Judicious Context Expansion**. *Philipp Christmann, Rishiraj Saha Roy, Abdalghani Abujabal, Jyotsna Singh, Gerhard Weikum.*  ***CIKM 2019*** [[pdf](https://arxiv.org/abs/1910.03262v1)]
 
-5. **GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media**. *Yi-Ju Lu, Cheng-Te Li*. ***ACL 2020*** [[pdf](https://arxiv.org/pdf/2004.11648.pdf)]
+5. **GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media**. *Yi-Ju Lu, Cheng-Te Li*. ***ACL 2020*** [[pdf](https://arxiv.org/abs/2004.11648)]
 
     
 
@@ -116,7 +116,7 @@ A list of recent papers about GNN methods applied in NLP areas.
 
 1. **HetGNN: Heterogeneous Graph Neural Network**. *Chuxu Zhang, Dongjin Song, Chao Huang, Ananthram Swami and Nitesh V. Chawla.* ***KDD 2019*** [[pdf](https://www.kdd.org/kdd2019/accepted-papers/view/hetgnn-heterogeneous-graph-neural-network)]
 
-2. **GMNN: Graph Markov Neural Networks**. *Meng Qu, Yoshua Bengio and  Jian Tang.* ***ICML 2019*** [[pdf](https://arxiv.org/pdf/1905.06214.pdf)] [[code](https://github.com/DeepGraphLearning/GMNN)]
+2. **GMNN: Graph Markov Neural Networks**. *Meng Qu, Yoshua Bengio and  Jian Tang.* ***ICML 2019*** [[pdf](https://arxiv.org/abs/1905.06214)] [[code](https://github.com/DeepGraphLearning/GMNN)]
 
 
 
@@ -141,7 +141,7 @@ A list of recent papers about GNN methods applied in NLP areas.
 
 ***ICML 2019***
 
-1. **GMNN: Graph Markov Neural Networks**. *Meng Qu, Yoshua Bengio and  Jian Tang.* ***ICML 2019*** [[pdf](https://arxiv.org/pdf/1905.06214.pdf)] [[code](https://github.com/DeepGraphLearning/GMNN)]
+1. **GMNN: Graph Markov Neural Networks**. *Meng Qu, Yoshua Bengio and  Jian Tang.* ***ICML 2019*** [[pdf](https://arxiv.org/abs/1905.06214)] [[code](https://github.com/DeepGraphLearning/GMNN)]
 
    
 
@@ -221,10 +221,10 @@ A list of recent papers about GNN methods applied in NLP areas.
 
 ***ACL 2020***
 
-1. **Fine-grained Fact Verification with Kernel Graph Attention Network**. *Zhenghao Liu, Chenyan Xiong, Maosong Sun, Zhiyuan Liu*. ***ACL 2020*** [[pdf](https://arxiv.org/pdf/1910.09796.pdf)] [[code](https://github.com/thunlp/KernelGAT)]
-2. **GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media**. *Yi-Ju Lu, Cheng-Te Li*. ***ACL 2020*** [[pdf](https://arxiv.org/pdf/2004.11648.pdf)]
-3. **Heterogeneous Graph Neural Networks for Extractive Document Summarization**. *Danqing Wang, Pengfei Liu, Yining Zheng, Xipeng Qiu, Xuanjing Huang*. ***ACL 2020*** [[pdf](https://arxiv.org/pdf/2004.12393.pdf)] [[code](https://github.com/brxx122/HeterSUMGraph)] 
-4. **Relational Graph Attention Network for Aspect-based Sentiment Analysis**. *Kai Wang, Weizhou Shen, Yunyi Yang, Xiaojun Quan, Rui Wang*. ***ACL 2020*** [[pdf](https://arxiv.org/pdf/2004.12362.pdf)] [[code](https://github.com/shenwzh3/RGAT-ABSA)]
+1. **Fine-grained Fact Verification with Kernel Graph Attention Network**. *Zhenghao Liu, Chenyan Xiong, Maosong Sun, Zhiyuan Liu*. ***ACL 2020*** [[pdf](https://arxiv.org/abs/1910.09796)] [[code](https://github.com/thunlp/KernelGAT)]
+2. **GCAN: Graph-aware Co-Attention Networks for Explainable Fake News Detection on Social Media**. *Yi-Ju Lu, Cheng-Te Li*. ***ACL 2020*** [[pdf](https://arxiv.org/abs/2004.11648)]
+3. **Heterogeneous Graph Neural Networks for Extractive Document Summarization**. *Danqing Wang, Pengfei Liu, Yining Zheng, Xipeng Qiu, Xuanjing Huang*. ***ACL 2020*** [[pdf](https://arxiv.org/abs/2004.12393)] [[code](https://github.com/brxx122/HeterSUMGraph)] 
+4. **Relational Graph Attention Network for Aspect-based Sentiment Analysis**. *Kai Wang, Weizhou Shen, Yunyi Yang, Xiaojun Quan, Rui Wang*. ***ACL 2020*** [[pdf](https://arxiv.org/abs/2004.12362)] [[code](https://github.com/shenwzh3/RGAT-ABSA)]
 5. **Every Document Owns Its Structure: Inductive Text Classification via Graph Neural Networks**. *Yufeng Zhang∗ , Xueli Yu∗ , Zeyu Cui , Shu Wu, Zhongzhen Wen and Liang Wang*. ***ACL 2020*** [[pdf](https://www.aclweb.org/anthology/2020.acl-main.31.pdf)] [[code](https://github.com/CRIPAC-DIG/TextING)]
 6. **Integrating Semantic and Structural Information with Graph Convolutional Network for Controversy Detection**. *Lei Zhong, Juan Cao, Qiang Sheng, Junbo Guo, Ziang Wang*. ***ACL 2020*** [[pdf](https://www.aclweb.org/anthology/2020.acl-main.49.pdf)] [[code](http://mcg.ict.ac.cn/controversy-detection-dataset.html)]
 7. **Line Graph Enhanced AMR-to-Text Generation with Mix-Order Graph Attention Networks**. *Yanbin Zhao, Lu Chen, Zhi Chen, Ruisheng Cao, Su Zhu, Kai Yu*. ***ACL 2020*** [[pdf](https://www.aclweb.org/anthology/2020.acl-main.67.pdf)] [[code](https://github.com/ybz79/AMR2text)]
